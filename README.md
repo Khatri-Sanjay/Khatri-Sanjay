@@ -1,99 +1,180 @@
+
 <div align="center">
 
-Hi, I'm Sanjay Khatri 👋
-Software Developer · Web Technologies · Nepal 🇳🇵
-Building thoughtful digital experiences, one commit at a time.
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Turning+ideas+into+working+software;Building+modern+web+applications;Learning%2C+improving%2C+and+sharing" alt="Animated introduction" />
+# Hi, I'm Sanjay Khatri 👋
 
+### Building modern web experiences with clean code and thoughtful design.
 
-<a href="https://linkedin.com/in/khatri-sanjay"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://medium.com/@khatrisanjay804"><img src="https://img.shields.io/badge/Medium-Articles-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
-<a href="mailto:khatrisanjay804@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/khatri-sanjay?tab=followers"><img src="https://img.shields.io/badge/GitHub-Follow-24292F?style=flat-square&logo=github&logoColor=white" alt="GitHub followers" /></a>
+**Software Development · Frontend Engineering · Web Technologies**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1200&color=3F759D&center=true&vCenter=true&width=650&lines=Turning+ideas+into+working+software;Building+scalable+web+applications;Passionate+about+Angular+%26+TypeScript;Always+learning.+Always+building." alt="Animated introduction" />
+
+<br/>
+
+<a href="https://lkhatrisanjay.com.np">
+  <img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-3F759D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://linkedin.com/in/khatri-sanjay">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:khatrisanjay804@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-2F8F83?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=khatri-sanjay&style=flat-square&color=3F759D&label=Profile+Views" alt="Profile views"/>
+
 </div>
 
-About me
-I'm a developer from Nepal 🇳🇵 who enjoys creating practical software, exploring modern web technologies, and improving the details that make applications easier to use.
-- 🔭 Interested in building maintainable, user-friendly web applications.
-- 🌱 Continuously learning new tools, patterns, and engineering practices.
-- 🎨 I enjoy working where development meets UI/UX design.
-- 🤝 Open to connecting, exchanging ideas, and collaborating on projects.
-- 📬 Reach me at khatrisanjay804@gmail.com.
-🛠️ Tech stack
-Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,c,js,ts,php&theme=dark&perline=5" alt="Java, C, JavaScript, TypeScript, PHP" />
-</p>
+---
 
-Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=angular,html,css,tailwind,bootstrap&theme=dark&perline=5" alt="Angular, HTML, CSS, Tailwind CSS, Bootstrap" />
-</p>
+## 👨‍💻 About Me
 
-Backend & Database
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,mysql,firebase&theme=dark&perline=3" alt="Node.js, MySQL, Firebase" />
-</p>
+I'm a developer from **Nepal 🇳🇵**, passionate about building practical, maintainable, and user-friendly digital applications.
 
-Build Tools & Developer Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=npm,vite,webpack,git,github,vscode&theme=dark&perline=6" alt="npm, Vite, Webpack, Git, GitHub, VS Code" />
-</p>
+I enjoy working across frontend architecture, application development, and UI/UX design — bringing ideas to life through clean code and thoughtful engineering.
 
-UI / UX Design
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,xd&theme=dark&perline=2" alt="Figma, Adobe XD" />
-</p>
+- 🔭 **Focus:** Modern web applications and reusable components
+- 🅰️ **Specialisation:** Angular, TypeScript, and frontend architecture
+- ⚙️ **Interests:** Scalable applications, developer tools, and performance
+- 🌱 **Learning:** New technologies, design patterns, and engineering practices
+- 🎨 **Design:** Combining functional development with intuitive user experiences
+- 🤝 **Collaboration:** Open to interesting projects and sharing ideas
 
-Angular Ecosystem
-<p align="left">
-  <img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white" alt="RxJS" />
-  <img src="https://img.shields.io/badge/Angular%20Material-3F51B5?style=flat-square&logo=angular&logoColor=white" alt="Angular Material" />
-  <img src="https://img.shields.io/badge/Angular%20CDK-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular CDK" />
-</p>
+---
 
-GitHub at a glance
+## 🛠️ Technologies & Tools
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=khatri-sanjay&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="170" alt="Sanjay's GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khatri-sanjay&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="170" alt="Most-used languages" />
+### Languages
 
+<img src="https://skillicons.dev/icons?i=java,c,js,ts,php&theme=dark" alt="Programming languages" />
 
-<img src="https://streak-stats.demolab.com?user=khatri-sanjay&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+### Frontend Development
 
+<img src="https://skillicons.dev/icons?i=angular,html,css,tailwind,bootstrap&theme=dark" alt="Frontend technologies" />
+
+### Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,mysql,firebase&theme=dark" alt="Backend and databases" />
+
+### Development & Build Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,npm,vite,webpack,vscode&theme=dark" alt="Developer tools" />
+
+### UI / UX Design
+
+<img src="https://skillicons.dev/icons?i=figma,xd&theme=dark" alt="Design tools" />
+
+### Angular Ecosystem
+
+<img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white" alt="RxJS"/>
+<img src="https://img.shields.io/badge/Angular_Material-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular Material"/>
+<img src="https://img.shields.io/badge/Angular_CDK-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular CDK"/>
+<img src="https://img.shields.io/badge/Angular_SSR-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular SSR"/>
+
+</div>
+
+---
+
+## 🚀 What I'm Exploring
+
+```text
+Frontend Engineering
+  ├── Component-driven architecture
+  ├── Reusable UI libraries
+  ├── Server-side rendering
+  └── Application performance
+
+Software Engineering
+  ├── Clean and maintainable code
+  ├── Modular application design
+  ├── Developer experience
+  └── Modern build workflows
+```
+
+---
+
+## 📂 Featured Work
+
+I enjoy working on applications and tools that solve practical problems.
+
+Explore my repositories to see the projects, experiments, and development work I'm sharing.
+
+<div align="center">
+
+<a href="https://github.com/khatri-sanjay?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+</a>
+
+<a href="https://www.npmjs.com/~sanjay.khatri">
+  <img src="https://img.shields.io/badge/View_NPM_Packages-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM Packages"/>
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=khatri-sanjay&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khatri-sanjay&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="165" alt="Most used languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=khatri-sanjay&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
 
 <details>
-  <summary><b>📈 View contribution activity graph</b></summary>
-  <br />
+<summary><b>📈 View Contribution Activity</b></summary>
+<br/>
 
-  <div align="center">
-    <a href="https://github.com/khatri-sanjay">
-      <img
-        src="https://github-readme-activity-graph.vercel.app/graph?username=khatri-sanjay&theme=github-dark&area=true&hide_border=true"
-        alt="Sanjay's GitHub contribution activity"
-      />
-    </a>
-  </div>
+<a href="https://github.com/khatri-sanjay">
+  <img src="https://ghchart.rshah.org/3F759D/khatri-sanjay" alt="GitHub contribution chart" width="95%"/>
+</a>
+
 </details>
 
 </div>
 
-Find me online
+---
+
+## 🌐 Connect With Me
+
 <div align="center">
 
-<a href="https://www.npmjs.com/~sanjay.khatri"><img src="https://img.shields.io/badge/npm-Packages-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm packages" /></a>
-<a href="https://instagram.com/_sanjay.khatri"><img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://app.joinhandshake.com/profiles/gq3w99"><img src="https://img.shields.io/badge/Handshake-Profile-DAAA00?style=flat-square" alt="Handshake" /></a>
+<a href="https://linkedin.com/in/khatri-sanjay">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://medium.com/@khatrisanjay804">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+<a href="https://www.npmjs.com/~sanjay.khatri">
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+</a>
+<a href="https://instagram.com/_sanjay.khatri">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://app.joinhandshake.com/profiles/gq3w99">
+  <img src="https://img.shields.io/badge/Handshake-DAAA00?style=for-the-badge"/>
+</a>
+
 </div>
 
+---
+
 <div align="center">
 
-Keep learning. Keep building. Keep growing. 🚀
+### "Keep learning. Keep building. Keep growing." 🚀
 
-<a href="https://github.com/khatri-sanjay?tab=repositories"><img src="https://img.shields.io/badge/Explore%20my%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" /></a>
+*Thanks for visiting my profile!*
 
-
-
-<img src="https://komarev.com/ghpvc/?username=khatri-sanjay&style=flat-square&color=0e75b6&label=Profile+views" alt="Profile views" />
+<a href="https://github.com/khatri-sanjay?tab=followers">
+  <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
+</a>
 
 </div>
