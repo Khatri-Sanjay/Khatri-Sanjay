@@ -61,10 +61,19 @@ GitHub at a glance
 
 <img src="https://streak-stats.demolab.com?user=khatri-sanjay&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
 
+
 <details>
-<summary><b>View contribution activity graph</b></summary>
-<br />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=khatri-sanjay&theme=github-compact&hide_border=true&area=true" alt="Contribution activity graph" />
+  <summary><b>📈 View contribution activity graph</b></summary>
+  <br />
+
+  <div align="center">
+    <a href="https://github.com/khatri-sanjay">
+      <img
+        src="https://github-readme-activity-graph.vercel.app/graph?username=khatri-sanjay&theme=github-dark&area=true&hide_border=true"
+        alt="Sanjay's GitHub contribution activity"
+      />
+    </a>
+  </div>
 </details>
 
 </div>
